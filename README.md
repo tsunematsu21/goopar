@@ -9,3 +9,13 @@ Click the link and hit the speaker to hear the difference.
 ```bash
 go install github.com/tsunematsu21/goopar@latest
 ```
+
+## Usage
+```
+$ goopar -h
+Usage: goopar [opts...] <args...>
+  -m int
+    	max times (default 10)
+```
+
+![example](example.gif)
