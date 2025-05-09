@@ -18,4 +18,8 @@ Usage: goopar [opts...] <args...>
     	max times (default 10)
 ```
 
+### Example
+```bash
+goopar {a..z}
+```
 ![example](example.gif)
